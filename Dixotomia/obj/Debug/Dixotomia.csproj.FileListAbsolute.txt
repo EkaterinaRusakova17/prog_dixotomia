@@ -1,0 +1,16 @@
+C:\Users\kater\source\repos\Dixotomia\Dixotomia\obj\Debug\Dixotomia.csproj.AssemblyReference.cache
+C:\Users\kater\source\repos\Dixotomia\Dixotomia\obj\Debug\Dixotomia.Form1.resources
+C:\Users\kater\source\repos\Dixotomia\Dixotomia\obj\Debug\Dixotomia.Properties.Resources.resources
+C:\Users\kater\source\repos\Dixotomia\Dixotomia\obj\Debug\Dixotomia.csproj.GenerateResource.cache
+C:\Users\kater\source\repos\Dixotomia\Dixotomia\obj\Debug\Dixotomia.csproj.CoreCompileInputs.cache
+C:\Users\kater\source\repos\Dixotomia\Dixotomia\bin\Debug\Dixotomia.exe.config
+C:\Users\kater\source\repos\Dixotomia\Dixotomia\bin\Debug\Dixotomia.exe
+C:\Users\kater\source\repos\Dixotomia\Dixotomia\bin\Debug\Dixotomia.pdb
+C:\Users\kater\source\repos\Dixotomia\Dixotomia\obj\Debug\Dixotomia.exe
+C:\Users\kater\source\repos\Dixotomia\Dixotomia\obj\Debug\Dixotomia.pdb
+C:\Users\kater\source\repos\Dixotomia\Dixotomia\bin\Debug\OxyPlot.dll
+C:\Users\kater\source\repos\Dixotomia\Dixotomia\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\kater\source\repos\Dixotomia\Dixotomia\bin\Debug\OxyPlot.xml
+C:\Users\kater\source\repos\Dixotomia\Dixotomia\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\kater\source\repos\Dixotomia\Dixotomia\obj\Debug\Dixotomia.Form2.resources
+C:\Users\kater\source\repos\Dixotomia\Dixotomia\obj\Debug\Dixotomia.csproj.Up2Date
